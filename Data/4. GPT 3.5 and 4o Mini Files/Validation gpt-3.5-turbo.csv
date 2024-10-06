@@ -1,0 +1,568 @@
+Unnamed: 0,created_utc_x,title,selftext,created_utc_y,subreddit,link_id,body,score,persons_title,persons_selftext,persons_body,text,Unnamed: 13,classification,topic,sentiment,disparaging_language,Validation
+92,2/14/2011 20:35,Should Donald Trump run for president?,,2/14/2011 22:41,AmericanPolitics,t3_flcgc,"Should the billionaire that made millions run for president?
+
+He wouldn't win, not with a comb-over like that.",1,['Donald Trump'],[],[],Should Donald Trump run for president? ,,[],["Politics"],Neutral,No,CORRECT
+255,4/20/2011 1:18,"Donald Trump is such an embarrassment to American Conservatives, they're accusing him of being a plant by the Democrats (video)",,4/20/2011 12:55,AmericanPolitics,t3_gu2an,donald trump is an robot controlled by an alien that looks like a toupee,2,['Donald Trump'],[],['donald trump'],"Donald Trump is such an embarrassment to American Conservatives, they're accusing him of being a plant by the Democrats (video) ",,"Based on the analysis, the text does not contain hate speech or target any protected class, so the output is: []",["Politics"],Negative,No,WRONG
+256,4/20/2011 1:18,"Donald Trump is such an embarrassment to American Conservatives, they're accusing him of being a plant by the Democrats (video)",,4/20/2011 20:22,AmericanPolitics,t3_gu2an,Everyone no matter what your party should vote for Ron Paul,1,['Donald Trump'],[],[],"Donald Trump is such an embarrassment to American Conservatives, they're accusing him of being a plant by the Democrats (video) ",,["Political Affiliation"],["Politics"],Negative,No,WRONG
+440,6/28/2011 8:54,Borrowing and spending the GOP way -- The big deficit facing the U.S. is mostly Republican in origin,,6/28/2011 12:13,AmericanPolitics,t3_ib5c3,"&gt;Consider the two signature GOP policies of George W. Bush's presidency: the wars and the tax cuts. Including debt service costs, Bush's wars have cost about $1.7 trillion to date. 
+
+Now that's odd.  They left out Bush's medicare prescription drug benefits:   
+&gt;The White House released budget figures yesterday indicating that the new Medicare prescription drug benefit **will cost more than $1.2 trillion in the coming decade**, a much higher price tag than President Bush suggested when he narrowly won passage of the law in late 2003.    
+[source](http://www.washingtonpost.com/wp-dyn/articles/A9328-2005Feb8.html) (written in 2005)
+
+  That's a huge expense.
+
+Now I wonder why they would leave that out of the article?  Aren't Republicans proud of Medicare Part D?  Shouldn't the people know what other big expenses are adding to the deficit?
+
+Maybe this is just another one of those ""blame the Republicans"" articles so that the Democrats will feel like *their* guys are doing something that should be supported?  ",2,[],[],['George W. Bush'],Borrowing and spending the GOP way -- The big deficit facing the U.S. is mostly Republican in origin ,,[],["Politics"],Negative,No,CORRECT
+453,6/30/2011 17:13,MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick',,6/30/2011 17:40,AmericanPolitics,t3_iderp,"So is it the fact that he said ""dick"" instead of saying ""I felt the president was being a little condescending and abrasive?""
+
+I think that is kind of ridiculous. We all know what ""kind of a dick"" means, and it's not as much of an insult as it is a criticism of his interactions with reporters in this particular press conference.",3,['Barack Obama'],[],[],MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick' ,,["Race"],["Politics"],Negative,No,WRONG
+454,6/30/2011 17:13,MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick',,6/30/2011 18:42,AmericanPolitics,t3_iderp,"""Dick"" is also a crude term for ""penis"", which is why Halperin is being suspended.",0,['Barack Obama'],[],[],MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick' ,,["Race"],["Politics"],Negative,No,WRONG
+455,6/30/2011 17:13,MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick',,6/30/2011 19:04,AmericanPolitics,t3_iderp,"So the media is only allowed to say nice things about the King even if he really is a dick?   
+
+I thought [dissension was Patriotic](http://www.google.com/search?q=bush%20hitler&amp;oe=utf-8&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;tbm=isch&amp;source=og&amp;sa=N&amp;hl=en&amp;tab=wi&amp;biw=1200&amp;bih=1762)?  What happened to that?",3,['Barack Obama'],[],[],MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick' ,,"The text does not contain hate speech or target any protected classes, so the output should be: []",["Politics"],Negative,No,WRONG
+456,6/30/2011 17:13,MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick',,6/30/2011 22:03,AmericanPolitics,t3_iderp,I finally understand the saying "it takes one to know one.",2,['Barack Obama'],[],[],MSNBC suspends journalist over Barack Obama insult -- US cable news channel takes action after Mark Halperin calls US president 'kind of a dick' ,,["Race"],["Politics"],Negative,No,WRONG
+664,8/3/2011 3:16,Trump: I May Run for President if Economy Stays Bad,,8/3/2011 3:18,AmericanPolitics,t3_j7d2p,"&gt;Real estate mogul Donald Trump said Friday he'd consider running for president ? again ? if the U.S. economy ""continues to be bad: and ""**if the Republicans pick the wrong candidate**.""
+
+Which candidate is the *wrong one*?",1,[],[],['Donald Trump'],Trump: I May Run for President if Economy Stays Bad ,,[],["Politics"],Neutral,No,CORRECT
+692,8/8/2011 6:04,The Meltdown?s True Villain,,8/8/2011 16:01,AmericanPolitics,t3_jc5u2,George W. Bush is a slimy piece of shit who won't do the honorable thing because he has no honor.,2,[],[],['George W. Bush'],The Meltdown?s True Villain ,,[],["Politics"],Neutral,No,CORRECT
+748,8/14/2011 12:01,"Hey Politico:  Who came in second, within 1% of first and with double the votes of third?",,8/14/2011 13:30,AmericanPolitics,t3_jietm,"Your choices WILL BE
+
+Barack Obama or Michelle Bachman
+
+Now, enjoy your free choice and vote for a statist totalitarian and quasi religious nut or just a total religious nut.",3,[],[],['Barack Obama'],"Hey Politico:  Who came in second, within 1% of first and with double the votes of third? ",,[],["Politics"],Neutral,No,CORRECT
+755,8/14/2011 12:01,"Hey Politico:  Who came in second, within 1% of first and with double the votes of third?",,8/15/2011 19:50,AmericanPolitics,t3_jietm,"I don't think I'm Politico's target audience, I'm a libertarian socialist. Politico is a right leaning website, I just check most of the big political websites to get an idea of whats happening that day, and I try to get it from multiple sources. And whether either one of us likes it, Barack Obama will serve another term. He has continued Bush's policies for the most part and the extreme right wing republicans have no one who can appeal to the American center. Just take a look at 538 and you'll see that Americans aren't pleased with republicans. The anti-democratic citizens united debacle will have little affect on the next election, the internet will continue to play a huge part in raising money and social media will define the next election. As for me, I'll try to pay more attention to my local elections and hopefully better the lot of my fellow citizens.",1,[],[],['Barack Obama'],"Hey Politico:  Who came in second, within 1% of first and with double the votes of third? ",,[],["Politics"],Neutral,No,CORRECT
+756,8/14/2011 2:51,WE DON'T NEED ANOTHER GEORGE W. BUSH,,8/14/2011 2:53,AmericanPolitics,t3_ji62y,But the first one worked out so well and this one is the new and improved nutcase. ,1,['GEORGE W. BUSH'],[],[],WE DON'T NEED ANOTHER GEORGE W. BUSH ,,["Age"],["Politics"],Negative,No,WRONG
+844,8/20/2011 0:39,Former Reagan Official Bruce Bartlett: 'Rick Perry's an Idiot',,8/20/2011 0:56,AmericanPolitics,t3_jofat,Just a reminder..  Bartlett also wrote a book titled [Imposter - How George W. Bush bankrupted America and betrayed the Reagan legacy](http://www.amazon.com/Impostor-George-Bankrupted-America-Betrayed/dp/0385518277/ref=sr_1_1?ie=UTF8&amp;qid=1313771273&amp;sr=8-1).  He's also not a fan of the Federal Reserve so he's not totally disagreeing with Perry on the damaging actions by the fed - just saying that Perry really is an idiot.,2,[],[],['George W. Bush'],Former Reagan Official Bruce Bartlett: 'Rick Perry's an Idiot' ,,"Based on the text ""Former Reagan Official Bruce Bartlett: 'Rick Perry's an Idiot'"", no hate speech targeting any protected class is present. Therefore, the output should be an empty array: []",["Politics"],Negative,No,WRONG
+854,8/23/2011 21:05,"The Washington Current: Capitol Idea: Rick Perry's No George W. Bush? Oh, Sure, He Is",,8/23/2011 21:06,AmericanPolitics,t3_js4rd,The article leaves out a key point:   Perry was a Democrat who campaigned for Al Gore.,1,['George W. Bush'],[],[],"The Washington Current: Capitol Idea: Rick Perry's No George W. Bush? Oh, Sure, He Is ",,[],["Politics"],Neutral,No,CORRECT
+958,9/10/2011 11:15,September 17: Occupy Wall Street,,9/10/2011 16:24,AmericanPolitics,t3_kb1ta,"&gt;On September 17, we want to see 20,000 people flood into lower Manhattan, set up tents, kitchens, peaceful barricades and occupy Wall Street for a few months. Once there, we shall incessantly repeat our one simple demand until Barack Obama capitulates.
+
+Shouldn't they have that ""one simple demand"" already spelled out before they begin protesting?  Otherwise they're just gathering a mob to be co-opted.  The establishment will simply shift the message and the demand will become something totally pointless.",1,[],[],['Barack Obama'],September 17: Occupy Wall Street ,,[],["Politics"],Neutral,No,CORRECT
+1056,9/22/2011 2:38,Rick Perry: Mitt Romney is 'Obama-lite' ,,9/22/2011 5:03,AmericanPolitics,t3_kngsz,And Rick Perry is 'George W. Bush-clone',1,[],[],['George W. Bush'],Rick Perry: Mitt Romney is 'Obama-lite'  ,,[],["Politics"],Negative,No,WRONG
+1385,11/3/2011 5:51,Ann Coulter defending Herman Cain: ?Our blacks are so much better than their blacks?,,11/4/2011 0:13,AmericanPolitics,t3_lyork,Compare and contrast with  Joe Biden and the "Clean articulate black man" comment,1,[],[],['Joe Biden'],Ann Coulter defending Herman Cain: ?Our blacks are so much better than their blacks? ,,["Race"],["Politics"],Negative,Yes,CORRECT
+1568,12/5/2011 17:29,Donald Trump Dismisses Ron Paul as ?Joke Candidate?,,12/5/2011 17:49,AmericanPolitics,t3_n1ak6,With no hint of irony apparently.,3,['Donald Trump'],[],[],Donald Trump Dismisses Ron Paul as ?Joke Candidate? ,,["Age"],["Politics"],Negative,No,WRONG
+1569,12/5/2011 17:29,Donald Trump Dismisses Ron Paul as ?Joke Candidate?,,12/5/2011 19:58,AmericanPolitics,t3_n1ak6,Trump calls Paul a Joke?  Hahaha!,2,['Donald Trump'],[],[],Donald Trump Dismisses Ron Paul as ?Joke Candidate? ,,["Age"],["Politics"],Negative,No,WRONG
+1628,12/24/2011 13:25,"Donald Trump Bolts Republican Party, Eyeing Other 2012 Options",,12/24/2011 18:30,AmericanPolitics,t3_np45y,"Wow, I am sure the republicans are devastated.",1,['Donald Trump'],[],[],"Donald Trump Bolts Republican Party, Eyeing Other 2012 Options ",,["Political Affiliation"],["Politics"],Neutral,No,CORRECT
+1744,1/24/2012 10:32,Solyndra: Real Scandal Is Dirty Energy Subsidies,,1/27/2012 22:07,AmericanPolitics,t3_oubhw,"The other things you are talking about aren't even related. Try sticking to one topic.
+
+Lobbyists with tight GOP connections helped the clean technology start-up company headed by a registered Republican. Arnold Schwarzenegger, California?s former GOP governor, was there for pivotal moments as Solyndra was born. And Solyndra got its federal footing thanks to a program in the 2005 energy law signed by President George W. Bush and passed by a Congress controlled entirely by Republicans.",0,[],[],['George W. Bush'],Solyndra: Real Scandal Is Dirty Energy Subsidies ,,[],["Politics"],Negative,No,CORRECT
+1782,1/29/2012 5:18,"Just how rich is Mitt Romney? Add up the wealth of the last eight presidents, from Richard Nixon to Barack Obama. Then double that number. Now you're in Romney territory.
+",,1/29/2012 10:21,AmericanPolitics,t3_p1ebv,This guy makes Richy Rich look like a 2%er.,2,['Barack Obama'],[],[],"Just how rich is Mitt Romney? Add up the wealth of the last eight presidents, from Richard Nixon to Barack Obama. Then double that number. Now you're in Romney territory.
+ ",,[],["Politics"],Negative,No,CORRECT
+1783,1/29/2012 5:18,"Just how rich is Mitt Romney? Add up the wealth of the last eight presidents, from Richard Nixon to Barack Obama. Then double that number. Now you're in Romney territory.
+",,1/29/2012 14:33,AmericanPolitics,t3_p1ebv,Politics is so sorry.  Seems that money is the prime requirement for running for office.  Character or ability does not matter as long as you have the money to run your campaign. Should money be that important in a political contest?,1,['Barack Obama'],[],[],"Just how rich is Mitt Romney? Add up the wealth of the last eight presidents, from Richard Nixon to Barack Obama. Then double that number. Now you're in Romney territory.
+ ",,[],["Politics"],Neutral,No,CORRECT
+2040,3/22/2012 13:44,The Three Political Parties of America ,,3/22/2012 13:45,AmericanPolitics,t3_r8c8o,"&gt;The parties are the Republicrats, the Scared Religionists, and the Freedom and Peace Party.
+
+&gt;By far the largest party is the Republicrats, who have held sway with their current platform since at least the 1940s. They are offering two candidates for president in 2012: their names are Mitt Romney and Barack Obama.
+
+nailed it.",2,[],[],['Barack Obama'],The Three Political Parties of America  ,,[],["Politics"],Neutral,No,CORRECT
+2144,4/3/2012 16:24,Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers',,4/3/2012 16:51,AmericanPolitics,t3_rrcol,"So if this were true, that means there is no point in voting this year if you don't like Obama.  If a conspiracy exists that's so perverse that they can threaten a former president into submission into silence; he's going to win no matter what your votes say.",3,['Bill Clinton'],[],[],Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers' ,,["Race"],["Politics"],Negative,No,CORRECT
+2145,4/3/2012 16:24,Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers',,4/3/2012 18:37,AmericanPolitics,t3_rrcol,"It's a riddle, inside an enigma, wrapped around a puzzle, with a chewy caramel center.",1,['Bill Clinton'],[],[],Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers' ,,["Race"],["Politics"],Negative,No,CORRECT
+2146,4/3/2012 16:24,Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers',,4/3/2012 21:37,AmericanPolitics,t3_rrcol,Rolos?,1,['Bill Clinton'],[],[],Hollywood producer heard Bill Clinton say Obama ineligible - Insider in Hillary's 2008 campaign points to 'original birthers' ,,["Race"],["Politics"],Negative,No,CORRECT
+2147,4/4/2012 19:28,Gary Johnson polls at 7% in race with Obama and Romney,,4/5/2012 6:08,AmericanPolitics,t3_rtd6l,Hard to see how that poll is good news for anyone except Barack Obama.,3,[],[],['Barack Obama'],Gary Johnson polls at 7% in race with Obama and Romney ,,[],["Politics"],Neutral,No,CORRECT
+2150,4/4/2012 18:36,The "Voter Fraud" Fraud,,4/4/2012 20:14,AmericanPolitics,t3_rt9sh,"&gt;Number one: there?s no evidence that the alleged forgeries played a decisive role in getting the Democratic candidates on the Indiana ballot in 2008 or determining the outcome of the primary or general election. ?No one could seriously argue there wasn?t enough popular support for Barack Obama and Hillary Clinton to justify their appearance on the primary ballot, or that it had any effect on the primary results, or any vaguely remote effect on the general election,? writes Ed Kilgore of The Washington Monthly. ?So maybe this was ?election fraud? in the broadest sense of the term, but hardly ?voter fraud.?? 
+
+wow.   ...  it's not that this fraud had an effect on the primary outcome, it's that if these instances were found then there are likely others and the collection of signatures to get on the ballot is a major hurdle placed on third party and anti-establishment candidates.  They have to collect those signatures and those signatures are scrutinized carefully so that those candidates can be kept off the ballot.  The ballot access hurdle is very costly and prevents them from using those funds for advertising to build their campaign.  ... so if major ""two party"" candidates are able to get away with just forging a bunch of signatures to get on the ballot then it's a very big deal.
+
+&gt;Number two: Indiana?s voter ID law, passed in 2008 and the model for the nine states that have adopted similar laws since the 2010 election, did nothing to prevent the alleged signature fraud, nor did it stop Indiana?s Republican Secretary of State, Charlie White, from committing felony voter fraud in the 2010 election. (White was sentenced to a year of home detention on felony fraud convictions.)
+
+This fraud has absolutely nothing to do with the primary election where the voter ID law would apply.  It was about the collection of signatures to get on the ballot.  There are existing laws against forging signatures for ballot access, and that's why this fraud was discovered.  ",2,[],[],['Barack Obama'],The "Voter Fraud" Fraud ,,[],["Politics"],Neutral,No,CORRECT
+2172,4/11/2012 19:12,A letter to Barack Obama concerning Free Speech on the Internet.,,4/19/2012 18:27,AmericanPolitics,t3_s4srn,I only regret that I have but one upvote to give,2,['Barack Obama'],[],[],A letter to Barack Obama concerning Free Speech on the Internet. ,,[],["Politics"],Neutral,No,CORRECT
+2173,4/11/2012 19:12,A letter to Barack Obama concerning Free Speech on the Internet.,,4/19/2012 20:45,AmericanPolitics,t3_s4srn,(...  this was automatically spam filtered.  Check out the account and you'll see that it might have been his very last upvote/comment before being banned.),1,['Barack Obama'],[],[],A letter to Barack Obama concerning Free Speech on the Internet. ,,[],["Politics"],Neutral,No,CORRECT
+2174,4/11/2012 19:12,A letter to Barack Obama concerning Free Speech on the Internet.,,4/26/2012 0:34,AmericanPolitics,t3_s4srn,"Thank you sir, the little bit of positive goes a long way.",1,['Barack Obama'],[],[],A letter to Barack Obama concerning Free Speech on the Internet. ,,[],["Politics"],Neutral,No,CORRECT
+2428,5/10/2012 2:55,Barack Obama?s Bulls**t Gay Marriage Announcement,,5/10/2012 6:51,AmericanPolitics,t3_tfuby,"What a petty, semantic argument. The president did something no president before him has done, and he did it at a crucial time in this country's history. In the world of politics, to voice a clear opinion on a divisive issue is to demonstrate courage.
+
+People are always going to rabble-rouse, someone is going to find fault in everything--I'm not surprised this article was written--but for the love of God, give the man some credit.   ",1,['Barack Obama'],[],[],Barack Obama?s Bulls**t Gay Marriage Announcement ,,["Sexual Orientation"],["Politics"],Negative,Yes,CORRECT
+2429,5/10/2012 2:55,Barack Obama?s Bulls**t Gay Marriage Announcement,,5/10/2012 16:01,AmericanPolitics,t3_tfuby,https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/525489_3663953191241_1047077596_3306334_170789048_n.jpg,4,['Barack Obama'],[],[],Barack Obama?s Bulls**t Gay Marriage Announcement ,,"[""Gender"", ""Sexual Orientation""]",["Politics"],Negative,Yes,CORRECT
+2491,5/21/2012 14:29,"53,000 Dead Voters Found in Florida",,5/23/2012 15:33,AmericanPolitics,t3_txj6y,"Did you really just respond to a clear fact with that? We are after all talking about the party of  Rod Blagojevich - [The case involved sweeping pay to play and influence peddling allegations, including the alleged solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for Barack Obama, who had resigned after being elected President of the United States (see bribery)](http://en.wikipedia.org/wiki/Rod_Blagojevich_corruption_charges)",1,[],[],['Barack Obama'],"53,000 Dead Voters Found in Florida ",,[],["Politics"],Negative,No,CORRECT
+2528,5/29/2012 0:07,Inside the Beltway: Mitt + The Donald = Vegas - Washington Times,,5/29/2012 0:08,AmericanPolitics,t3_u9hg4,"&gt; ?We need to convince Donald Trump to go to Washington. We fully respect Mr. Trump?s decision to endorse Mitt Romney but firmly believe that we need Trump in DC. Imagine Donald Trump as Secretary of State ?negotiating? with China or OPEC.?
+? Statement from TrumpHQ, the new designation for Mr. Trump?s former fan website ShouldTrumprun.com
+
+lol...  oh.",1,[],[],['Donald Trump'],Inside the Beltway: Mitt + The Donald = Vegas - Washington Times ,,[],["Politics"],Neutral,No,CORRECT
+2567,6/5/2012 14:12,Former Clinton Adviser Dick Morris - 'Bill Clinton Does Not Want Barack Obama to Win',,6/5/2012 16:31,AmericanPolitics,t3_um2xs,"Dick Morris has made a career out of saying whatever outrageous things the wingnuts want to hear. If you take anything he says seriously, you deserve to be lied to.",2,"['Barack Obama', 'Bill Clinton']",[],[],Former Clinton Adviser Dick Morris - 'Bill Clinton Does Not Want Barack Obama to Win' ,,[],["Politics"],Negative,No,CORRECT
+2568,6/5/2012 14:12,Former Clinton Adviser Dick Morris - 'Bill Clinton Does Not Want Barack Obama to Win',,6/5/2012 20:51,AmericanPolitics,t3_um2xs,"To keep getting airtime on Fox, you have to feed into it's hivemind... It makes sense that he is essentially saying, ""Even the Left's most beloved President thinks Obama will destroy the country if he's reelected. TIME. TO. PANICCC!!!!!""",1,"['Barack Obama', 'Bill Clinton']",[],[],Former Clinton Adviser Dick Morris - 'Bill Clinton Does Not Want Barack Obama to Win' ,,[],["Politics"],Negative,No,CORRECT
+2617,6/14/2012 13:18,'Game of Thrones' Bosses Explain George W. Bush Head On A Spike,,6/14/2012 14:57,AmericanPolitics,t3_v1lir,appears to be a bad link,2,['George W. Bush'],[],[],'Game of Thrones' Bosses Explain George W. Bush Head On A Spike ,,"Based on the text ""'Game of Thrones' Bosses Explain George W. Bush Head On A Spike"", it does not contain hate speech or target any protected class. Therefore, the output would be: []",["Entertainment"],Neutral,No,WRONG
+2618,6/14/2012 13:18,'Game of Thrones' Bosses Explain George W. Bush Head On A Spike,,6/14/2012 15:59,AmericanPolitics,t3_v1lir,removed..    thanks for spotting it.,2,['George W. Bush'],[],[],'Game of Thrones' Bosses Explain George W. Bush Head On A Spike ,,[],["Entertainment"],Neutral,No,WRONG
+2639,6/14/2012 0:41,Found this and thought it belonged here!:D,,6/15/2012 2:44,AmericanPolitics,t3_v0su1,"Oh yeah I saw that. That was Jesse Ventura and if you haven't heard he's a famous wrestler and that's the only reason why he got elected, people recognized his name. That's why he only wants names on the ballot. Let me say it again he is a fucking World Wrestling, fake chair smashing, table crushing wrestler. So I don't agree.  
+
+People are so star struck here they will vote for any name they recognize. Here are some examples, Jessie Ventura - wrestler, Ronald Regan - Actor, George W. Bush - son George Bush. That's also why Obama is selling 'raffle tickets' to have dinner with him and some celebrity of the week to fund his campaign. He's smart and know's it's worked before. Personally I wish he would talk about his plans, but I understand why he's doing it.
+
+It's not name calling right now it's straight up I will vote against anythe other party proposes so that nothing that you propose will pass, and that's my way of making you look ineffective and idiot.  
+
+That's what's going on. At least that's how I see it. I think the Republicans are more guilty of it but I'm sure Dems are doing it too and it fucking sucks because nothing gets done that way and the most retarded issues that I never imagined I would ever have to think about and huge issues now.  
+
+But you're right they should care and I should try to make a difference. I just more meant that big money has the big sway over every one and you can write complaints and petitions until your hands bleed and you might not even get a response. I have written to my republican congressman several times and never gotten any response. Doesn't mean I shouldn't fuss though. 
+
+Oh and here's some info on (Jesse Ventura)[http://en.wikipedia.org/wiki/Jesse_Ventura]  Look the reddit post up, I remember seeing it and I'm 90% sure that's who said it.",1,[],[],['George W. Bush'],Found this and thought it belonged here!:D ,,[],Other,Positive,No,CORRECT
+2708,6/25/2012 18:40,Tipping Point Democracy ,,6/25/2012 18:43,AmericanPolitics,t3_vl1sk,"&gt;March 29th, 2012 a group of plaintiffs led by author/journalist Chris Hedges brought a lawsuit against Barack Obama and the US government for section 1021 of the National Defense Authorization Act of 2012, which gives the US military the right to detain American citizens indefinitely without charge or trial.
+
+&gt;The clip features interviews with following plaintiffs during or immediately after the court date:
+- Chris Hedges, Pulitzer Prize winning author, journalist and former war correspondent with New York Times,
+- Tangerine Bolen, founder of RevolutionTruth,
+- Alexa O'Brien, founder of US Day Of Rage, and
+- Kai Wargalla, founder of Occupy London.
+
+&gt;Other plaintiffs include:
+Noam Chomsky
+Daniel Elsberg
+Birgitta Jónsdóttir 
+
+well worth watching...",1,[],[],['Barack Obama'],Tipping Point Democracy  ,,[],["Politics"],Neutral,No,CORRECT
+2797,7/10/2012 15:00,Barack Obama's Brother to Make Film Debut in Anti-Obama Documentary (Exclusive Video),,7/10/2012 21:01,AmericanPolitics,t3_wbvvk,"Ugh. Dinesh D?Souza. *What* a scumbag. Seriously.
+
+Related:
+
+""Honestly, Dinesh, what *piffle* you're allowing yourself today...""
+
+-Christopher Hitchens",2,['Barack Obama'],[],[],Barack Obama's Brother to Make Film Debut in Anti-Obama Documentary (Exclusive Video) ,,"Based on the text provided, there is no hate speech directed towards any protected classes. Therefore, the output should be an empty array: []
+
+Output: []",["Entertainment"],Negative,No,WRONG
+2798,7/10/2012 4:45,Florida Republicans hail Donald Trump as ?Statesman of the Year?,,7/11/2012 19:06,AmericanPolitics,t3_wb9fk,Oh Florida.,1,['Donald Trump'],[],[],Florida Republicans hail Donald Trump as ?Statesman of the Year? ,,[],["Politics"],Positive,No,CORRECT
+2839,7/15/2012 14:34,Take the presidential election quiz and see which candidate you side with,,7/15/2012 17:13,AmericanPolitics,t3_wldw4,"My top three are 
+
+* Barack Obama
+* Jill Stein
+* Gary Johnson
+
+I guess I'm pretty liberal.  ",2,[],[],['Barack Obama'],Take the presidential election quiz and see which candidate you side with ,,"[]
+The text does not target any protected classes.",["Politics"],Neutral,No,WRONG
+2901,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/21/2012 14:25,AmericanPolitics,t3_wx7qg,"&gt;""Eight years was awesome, and I was famous and I was powerful. But I have no desire for fame and power anymore,? said Mr. Bush in the recent interview.
+
+I just...what? ?_? I can understand not wanting to be in the spotlight after a two term presidency. I would hope that he could use a better word than ""awesome"" to describe that period, relating-to-your-audience be damned. And saying you were famous and powerful? Is that really what you want people to think of when you talk about your presidency? How famous and powerful you were? I hope this is taken out of context. ",3,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Neutral,No,CORRECT
+2902,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/21/2012 16:04,AmericanPolitics,t3_wx7qg,"I wouldn't read too much into it.  I mean, we all know that W had his struggles with words and phrases, etc.
+
+He's just stating a fact: Leaders of the so-called 'Free World' are famous (well known) and powerful (duh).
+
+Now, he's hiding out.  And I don't think it's so much for want to live a private life as it is for the fact that he is hated by a great number of the people he was sworn to defend.  And he knows the feelings toward him are justified.  And truly, I think he hates himself.
+
+W did some good in office, but not enough to outweigh the terrible, and he is conscious of that.
+
+A part of me feels sympathetic toward him.  I don't think he knew what he was getting himself into - he just wanted to one-up his daddy.  I don't think he knew what his friends were up to, really.  And I don't think he knew then what trap he was helping to bait for all of us.
+
+But still.",0,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Negative,No,CORRECT
+2903,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/21/2012 17:37,AmericanPolitics,t3_wx7qg,"Maybe he knew what he was getting into, maybe he didn't. And I can feel for him wanting to lay low and not attend the Convention. That quote just sounds like something a teenager would say, not a former president. ",0,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Negative,No,CORRECT
+2904,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/21/2012 20:10,AmericanPolitics,t3_wx7qg,Funny thing is that he's actually very well read. I guess he's just not very articulate. ,2,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Negative.,No,CORRECT
+2905,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/23/2012 3:12,AmericanPolitics,t3_wx7qg,"I watched the whole interview recently.  It's really not out of context, he did just say that.",1,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Negative,No,CORRECT
+2906,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/23/2012 3:14,AmericanPolitics,t3_wx7qg,"Funny thing is that he used to be very articulate.  Look at debates from when he ran for governor of Texas, and you see a well-spoken, very articulate, informed-sounding man.",1,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Neutral,No,CORRECT
+2907,7/21/2012 13:18,George W. Bush to skip Republican National Convention,,7/23/2012 3:22,AmericanPolitics,t3_wx7qg,The really sad thing is that it's more of a reflection of his audience than it is of himself.,1,['George W. Bush'],[],[],George W. Bush to skip Republican National Convention ,,[],["Politics"],Neutral,No,CORRECT
+3044,8/2/2012 18:00,Gary Johnson gets 19% in nationwide poll ,,8/2/2012 18:05,AmericanPolitics,t3_xkoqc,"I've been wondering why the Libertarian party doesn't play this game for a while now.  
+
+Here's what I find interesting.. 
+
+Barack Obama 56%
+
+Gary Johnson 19%
+
+Undecided/neither 25%
+
+
+Assuming that the pollsters did a little homework and asked a few crosstab questions to make sure they had a good representation of voters then the 56% for Obama would indicate that some Republicans voted for Obama instead of Johnson.  Wow.  They would vote for Obama instead of a two term Republican Governor who has a solid record of being a fiscal conservative.  ",1,[],[],['Barack Obama'],Gary Johnson gets 19% in nationwide poll  ,,[],["Politics"],Positive,No,CORRECT
+3136,8/8/2012 20:41,Confused Why So Many Foreign Banks Are Suddenly Being Charged By The US? Here's Why ,,8/9/2012 18:05,AmericanPolitics,t3_xwg13,"&gt;That same July 26 evening, he picked up as much as $1.1 million in campaign contributions from high-level officers of Barclays, a huge British bank.
+
+&gt;Because foreign contributions to U.S. campaigns are illegal, the Barclays donors to Romney all listed addresses in the United States, where Barclays Capital has expanded its presence since the recent credit crisis, when it acquired most of Lehman Brothers? U.S. assets.
+
+&gt;To balance the risk, at least one Barclays banker also contributed the maximum allowed to Barack Obama. (AP, July 26)
+
+&gt;Of course, **most people** know that the big banks buy elections and politicians. 
+
+[source](http://www.workers.org/2012/08/01/libor-how-big-banks-conspired-to-cheat-the-people/)
+
+
+&gt;Maybe that's because IT IS ILLEGAL for US Senators to take money from foreign nationals.
+
+Who said the money was coming from foreign nationals anyway?  It's well known that there are American citizens living and working abroad, and sometimes [they donate big money to wield influence in our government](http://news.yahoo.com/blogs/ticket/romney-brings-1-million-israel-fundraiser-075809859.html).",1,[],[],['Barack Obama'],Confused Why So Many Foreign Banks Are Suddenly Being Charged By The US? Here's Why  ,,["National Origin"],["Politics"],Neutral,No,WRONG
+3327,8/21/2012 17:51,"Mitt Romney, Barack Obama open up about faith ",,8/25/2012 5:22,AmericanPolitics,t3_yl9xq,"&gt; ""Come and see what the Lord has done, the desolations he has brought on the earth. He makes wars cease to the ends of the earth. He breaks the bow and shatters the spear; he burns the shields with fire.""
+
+You heard it! He wants to abolish the 2nd Amendment!",1,['Barack Obama'],[],[],"Mitt Romney, Barack Obama open up about faith  ",,["Religion"],["Politics"],Neutral,No,WRONG
+3399,8/27/2012 8:44,"CHART: Ending Bush tax cuts on income over $250,000 saves nearly $1 trillion",,8/31/2012 18:32,AmericanPolitics,t3_yw9cs,"I agree that Bill Clinton was pretty responsible, but other than that democrats have been pretty unreliable.  It's just the way the system works.  You have a bunch of congressmen that each want to promote their unique agendas.
+
+I'd love for the government to put my taxes in a bank account and let it earn interest, but this is simply not realistic.  You don't need to get angry and point fingers, but you'd be a fool if you didn't know better.",1,[],[],['Bill Clinton'],"CHART: Ending Bush tax cuts on income over $250,000 saves nearly $1 trillion ",,[],["Economy"],Positive,No,CORRECT
+3737,2/11/2014 21:32,Ron Paul Rages "Will No One Challenge Obama?s Executive Orders?",,2/12/2014 17:20,AmericanPolitics,t3_1xnccp,"Barack Obama agreed in 2008..
+
+&gt;""The biggest problems that we?re facing right now have to do with George Bush trying to bring more and more power into the executive branch and not go through Congress at all. And that?s what I intend to reverse when I?m president of the United States of America.""
+
+[more here](http://www.politifact.com/georgia/article/2013/jun/13/barack-obama-surveillance-then-and-now/)",2,[],[],['Barack Obama'],Ron Paul Rages "Will No One Challenge Obama?s Executive Orders?" ,,[],["Politics"],Negative,No,CORRECT
+3824,2/18/2014 17:32,"Poll: 71% of Obama voters, 55% Democrats 'regret' voting for his re-election",,2/18/2014 20:13,AmericanPolitics,t3_1y99jk,"If you read the poll results itself, you'll see the Washington Examiner ""article"" is bullshit and **outright distorts the poll results**.
+
+The 71 percent figure is sampled from only those who say they would not vote for Obama again, **not all Obama voters**.
+
+From the poll itself: ""Do you regret voting for Barack Obama? Asked of those who reported voting for Barack Obama in 2012 but would not vote for him if the election was held again.""
+
+And how many Obama voters would not vote for him again? Only ten percent.
+
+So in reality, **only 7 percent of Obama voters regret voting for him.**",12,[],[],['Barack Obama'],"Poll: 71% of Obama voters, 55% Democrats 'regret' voting for his re-election ",,[],["Politics"],Negative,No,CORRECT
+3836,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/19/2014 4:15,AmericanPolitics,t3_1yav4t,Yay?,3,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,[],["Politics"],Neutral,No,CORRECT
+3837,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/19/2014 6:09,AmericanPolitics,t3_1yav4t,[deleted],1,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,"[]
+
+The text does not contain hate speech or target any protected classes.",["Politics"],Negative,No,WRONG
+3838,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/19/2014 6:46,AmericanPolitics,t3_1yav4t,"Not yay. Less jobs also = less bargaining power for employees. Some may make more, but they become ultra disposeable and have bad job stability.",2,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,[],["Politics"],Neutral,No,CORRECT
+3839,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/19/2014 8:41,AmericanPolitics,t3_1yav4t,"A [comment I made on another post about this](http://www.reddit.com/r/PoliticalDiscussion/comments/1yadc0/the_cbo_estimated_that_increasing_the_minimum/cfj3717) that used a similarly misleading title:
+
+-------
+This title is very misleading, as it completely mis-frames the CBO's analysis.  They estimate that a net total of $31 billion dollars more income would go to low-wage workers.  About 16.5 million people would see their wages rise, and somewhere between 0 - 1 million people would lose their jobs.  The *net effect* of this would be about 900,000 fewer people in poverty.
+
+In other words, this is not a contest between 900K people on one hand vs. 500,000 on the other, like the title misleads you into thinking.  It's between *16.5 million* who gain, and somewhere between *none* and *1 million* who lose, with a **net effect** of 900,000 fewer people in poverty.
+
+Presented honestly, it's an obvious win for the country.
+
+Now, I'm very puzzled by the CBO even projecting the possibility of such a large number of job losses.  Sure, they admit a lot of uncertainty on that part (and only that part) of their analysis, indicating that maybe no jobs at all will be lost.  But unless I missed something, they give only one paragraph of this multipage report to the fact that shifting so much income to lower wage workers would greatly increase consumer spending, increasing demand for goods and services, and balancing out the higher cost of hiring.  Also, as far as I can tell, they mostly ignore this for the rest of the analysis.
+
+Based on their figures, it looks like about $20 billion in additional annual spending would be prompted by an increase of the minimum wage to $10.10.  What's the effect of that much high-impact fiscal stimulus on employment?  They never really say.  Why was this left out of the discussion?
+
+Anyway, leave aside that tangent and take their projections at face value.  But look at it honestly, not in the  way the title frames it.  Yes, it's obviously a net win.",3,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,"[]
+
+The text does not contain any hate speech directed towards protected classes.",["Politics"],Negative,No,WRONG
+3840,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/19/2014 18:40,AmericanPolitics,t3_1yav4t,"There's a lot of uncertainty in raising the minimum wage.  Labor, like any other commodity, places the entrepreneur at the mercy of the consumer.  The entrepreneur, in order to deal with price fixing in the labor market will raise his prices and/or demand less labor.  
+
+Sure, the CBO is non-partisan.  Regardless, it is very difficult to make such an assured forecast.
+
+Personally, I think this policy will be a wash.  It's political theater.  In a generation this discussion will take place again, the same arguments will be made, and systemic problems with pricing labor will persist; and in twenty years, if esoteric trade agreements like TPP are implemented and $10.10 wage earners compete with $.28 a day workers in say... Vietnam, this is suicide for the American workforce.  I am astounded at how gullible Americans are to this matter of fact in a global economy.  The same interests which exploit cheap labor and create laws to benefit that exploitation, somehow want to do a favor for the high taxed liability worker in America?  This naivety is why Wall Street Bankers throw parties to laugh at the public.",1,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,[],["Politics"],Negative,No,CORRECT
+3841,2/19/2014 2:05,"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said.",,2/28/2014 1:14,AmericanPolitics,t3_1yav4t,As well as higher prices for all our goods and services. It's a never ending cycle used to give Obama a good name and the happiness and respect of all the bloody poor people in our country. God bless the United-Fucking-States.,1,['Barack Obama'],[],[],"President Barack Obama's plans to raise the minimum wage could lift 900,000 people above the poverty line but may cost half a million jobs, the non-partisan Congressional Budget Office said. ",,[],["Politics"],Neutral,No,CORRECT
+3842,2/19/2014 2:22,"Under attack from its core liberal support base over the Trans-Pacific Partnership and the Transatlantic Trade and Investment Partnership, President Barack Obama's key negotiator defended the efforts, but promised more transparency over the details of the talks.",,2/19/2014 6:19,AmericanPolitics,t3_1yawvd,"&gt; ""In my view, a world with TPP is a world that is in the interest of America's workers and America's families.""  
+  
+""In my view, a world with TPP is a world that is in the interest of America's corporations and America's top 1% families.""  
+FTFY Froman.",2,['Barack Obama'],[],[],"Under attack from its core liberal support base over the Trans-Pacific Partnership and the Transatlantic Trade and Investment Partnership, President Barack Obama's key negotiator defended the efforts, but promised more transparency over the details of the talks. ",,[],["Politics"],Negative,No,CORRECT
+3908,2/28/2014 8:47,Dead and Buried: Republican Party Futurology,,3/1/2014 2:32,AmericanPolitics,t3_1z601d,"The Democrat party is the one that need to rely on identity politics to win elections. This is the Democratic Party of Barack Obama.  The ideological base of the Democrats is very thin without personality.
+
+The Democrats won't have that kind of charisma to run on this time around, and as we're about to find out in November, the Republicans have an ideologically motivated base.
+
+",1,[],[],['Barack Obama'],Dead and Buried: Republican Party Futurology ,,[],["Politics"],Negative,No,CORRECT
+3939,3/8/2014 1:31,"Bartcop is gone. Terrence Coppage, aka Bartcop, of Bartcop.com has died of leukemia, pneumonia, and flu.",,3/8/2014 9:03,AmericanPolitics,t3_1zuwle,"This should be getting more votes.  I first saw his blog in 1999 or 2000, and started reading right away.  His blog looks basically the same as it did then, yet somehow he kept coming up with new content every day.  For years.
+
+Here's his liberal media bit, which was written **14 years ago**.  It's still basically true, maybe add Maddow and Maher
+
+--------------
+
+Note: This was written on December 11th, 2000 which was before September 11th,  
+                     so don't write to explain that Barbara Olson is dead, OK? 
+ 
+Keith Olbermann's version is at the bottom 
+ The Myth of the ""liberal"" media
+
+ Let's do a ""what if"" so I can make a point. I think it's a good one. 
+ I think it's so good, I'd like to hear from anyone who disagrees.
+
+ What if a show like Dateline did a ""hatchet job"" on George W. Bush? 
+ It wouldn't have to really be a hatchet job, but any honest appraisal of that idiot's 
+ qualifications would prove he's a non-thinking rich man's boy - and that's all. 
+ But what would happen if Dateline did an unflattering portrait of Bush?
+
+ I'll tell you what would happen:
+
+ The vulgar Pigboy would spend at least three hours saying it wasn't true 
+ and he'd offer hours of rebuttal as to why Dateline was lying.
+
+ Bill O'Reilly would spend at least an hour on his show saying 
+ it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Sean Hannity would walk all over Alan Colmes for an hour that night, 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Eva Von Zahn  would spend at least an hour that night saying it wasn't true 
+ and she'd offer rebuttal as to why Dateline was lying.
+
+ The Beltway Boys would spend at least an hour that night saying it 
+ wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Brit Hume and Tony Snow would spend at least an hour on Sunday 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Juan Williams and Mara Liason would spend their entire allotted time 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ John McLaughlin would spend at least an hour on his syndicated show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Chris the Screamer would spend at least an hour on his show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ G. Gordon Liddy would spend at least three hours on his radio show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Laura the Whore would spend at least an hour on her radio show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Michael Medved would spend at least an hour on his radio show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Sam and Cokie would spend at least an hour on This Whore 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ George (Judas Maximus) Steffi and George (dumb as a chimp) Will 
+ would spend their entire allotted time swearing that it wasn't true.
+
+ Bob Scheiffer would spend at least an hour on Face the Whore 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Tim the Catholic would spend at least an hour on Meet the Whore 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ John Hockenberry would spend at least an hour on his show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Ollie North would spend at least an hour on his radio show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Robert Novak would spend at least an hour on his cable TV show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Paul Weyrich would spend at least an hour on his cable TV show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Still with me? We're close to the end... 
+
+ BSNBC's Brian Williams would spend at least an hour on his show 
+ saying it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Wolf the Whore would spend at least an hour on his show saying 
+  it wasn't true and offer rebuttal as to why Dateline was lying.
+
+ Bill Schneider and Candy Crowley would do an hour special on CCN  
+  (Clinton Cock Network) saying it wasn't true, and offering rebuttal. 
+
+ John Stossel would have a special on ABC:  Is lying OK for liberals?
+
+ Then Howie Kurtz would spend 30 minutes on Reliable Sources asking  
+  if the media wasn't being too hard on a developmently-disabled child. 
+
+ Barbara Olson would write a book condemning Dateline.  
+  Ann Coulter would write a book condemning Dateline.  
+  Laura Ingraham would write a book condemning Dateline.  
+  Peggy Noonan would write a book condemning Dateline.  
+  Andrew Sullivan would write a book condemning Dateline.  
+  William Safire would write a book condemning Dateline. 
+
+ OK, we're going to call the above ""Exhibit A."" 
+
+ Now, everyone on that list has done at least a dozen hit pieces on Clinton. 
+
+ My question is,   Where is ""Exhibit B?""
+
+ When those 38 people attack Clinton and his cock, who does the rebuttal?
+
+ Even you ditto-sheep have to admit that nobody on that list  
+  has EVER defended a fabricated lie against the president. 
+
+ There is no ""Exhibit B,"" because there are so few liberal voices on television.  
+  The closest you can get is Eleanor on McLaughlin or Geraldo, but there is barely  
+  a liberal whisper on television, even though there are DOZENS of right-wing,  
+  Smirk-apologist shows whose livelyhood is lying about liberals. 
+
+ I don't think you ditto-heads can offer an answer. 
+
+http://www.bartcop.com/libmedia.htm
+
+edit:  In case you're wondering where 'Bartcop' comes from, as I recall, someone called him 'Black Bart' like a pirate, and someone else said he was like a cop, and he just made up the name Bartcop for himself.",6,[],[],['George W. Bush'],"Bartcop is gone. Terrence Coppage, aka Bartcop, of Bartcop.com has died of leukemia, pneumonia, and flu. ",,[],["Health"],Negative,No,CORRECT
+4218,4/28/2014 5:15,"A heavily redacted memo from then-President Bill Clinton?s White House, released last week as part of a vast cache of papers from the Clinton Library, revealed that the... administration was frantic about the rise of the free Internet and its implications.",,4/28/2014 12:32,AmericanPolitics,t3_245xo0,"The report isn't worried about the Internet.   It's pointing out how right wing think tanks turn non-stories and conspiracy theories into stories that the major news networks will talk about.  The Internet is mentioned, along with European news (BBC) and talk radio.  And quite frankly, this post looks like an attempt to push anti-internet rhetoric on Hillary, with a complete lack of substantiation.  I'm far from a Hillary fan myself, but it's going to take a hell of a lot more than this to make a republican a better choice than whatever Hillary might do.",7,['Bill Clinton'],[],[],"A heavily redacted memo from then-President Bill Clinton?s White House, released last week as part of a vast cache of papers from the Clinton Library, revealed that the... administration was frantic about the rise of the free Internet and its implications. ",,[],["Technology"],Negative,No,CORRECT
+4219,4/28/2014 5:15,"A heavily redacted memo from then-President Bill Clinton?s White House, released last week as part of a vast cache of papers from the Clinton Library, revealed that the... administration was frantic about the rise of the free Internet and its implications.",,4/28/2014 14:45,AmericanPolitics,t3_245xo0,"If the phrase ""unregulated data"" doesn't scare you now, I have a feeling that it will in the future.",2,['Bill Clinton'],[],[],"A heavily redacted memo from then-President Bill Clinton?s White House, released last week as part of a vast cache of papers from the Clinton Library, revealed that the... administration was frantic about the rise of the free Internet and its implications. ",,[],["Politics"],Negative,No,CORRECT
+4238,5/3/2014 12:42,"Reid, ?watchdogs? silent as wealthy liberal donors plot at private Chicago summit",,5/3/2014 14:19,AmericanPolitics,t3_24m8np,"&gt; Joining these progressive mandarins, was President Barack Obama?s professional wife, the Iranian-born Valerie Jarrett. 
+
+How can anyone take this shit seriously?",3,[],[],['Barack Obama'],"Reid, ?watchdogs? silent as wealthy liberal donors plot at private Chicago summit ",,[],["Politics"],Negative,No,CORRECT
+4255,5/6/2014 15:12,Watching the Obama Presidency Die,,5/8/2014 7:43,AmericanPolitics,t3_24va87,"You realize that Barack Obama can't run for president again, right? His presidency is going to die on January 20, 2017. Just like it was always going to ever since he won reelection in 2012. ",0,[],[],['Barack Obama'],Watching the Obama Presidency Die ,,["Race"],["Politics"],Negative,No,CORRECT
+4269,5/8/2014 1:01,GOP wants more control over picking 2016 nominee,,5/8/2014 6:30,AmericanPolitics,t3_250391,"This article is pretty thin. First of all, the headline writer should be fired. The article isn't about Republican leaders wanting to pick the nominee themselves but how they want to change the Republican primary process where voters pick the nominee. 
+
+But the article itself is bad. It focuses on **how** the GOP wants to change the process with no mention of **why**. *How* they want to change it is to reduce the exposure of Republican candidates to unscripted moments. You know, those moments where they may face tough questions and have to think on their feet. But *why* the GOP wants to reduce those opportunities for voters to get insight into the candidates is the interesting part of the story. The reason is that the Republican Party has become so extreme that it's national candidates have to walk a tightrope. Their message has to be carefully managed so that it doesn't offend either their radical base on one hand or the general public on the other. 
+
+For the 2012 campaign the GOP forgot how wrongheaded much of Republican rhetoric sounds to the rest of the country and just looked at how the extended Democratic primary battle in 2008 helped Barack Obama. That year the Democratic primary contest was long, and actually thoughtful on occasion, and gave plenty of exposure to Obama while John McCain sewed up the nomination quickly and had to wait in the wings with relatively little national attention. With no serious Democratic challenge to be mounted against a sitting president in 2012 the GOP lengthened their primary and scheduled lots of debates figuring they could recreate the same situation in their favor. Oh how they were wrong. 
+
+It's not that there aren't crazy, off the deep end, leftwingers. They certainly exist. But they don't have any political power. The only use the Democratic Party has for them (other than hoping they hate and fear the GOP enough to hold their noses and vote Democratic) is to hold them up to say, ""These are the crazy liberals. We are sensible moderates!"" Democratic rhetoric doesn't alienate general election voters. On the contrary. That's exactly who it is aimed at. So a long and relatively open primary debate was good for eventual Democratic nominee Barack Obama. 
+
+Not so for poor Mitt Romney. To appease the rightwing extremists he was forced to downplay his single significant political success: Romneycare. That made him look like a fool when he had to attack the same basic plan President Obama had gotten enacted on a national level. Romney had to toe the radical conservative line and say he wouldn't make a deal on the budget that included even massive spending cuts if it meant raising taxes slightly. Those sorts of things damaged him in the eyes of general election voters and they also failed to unite the GOP faithful behind him. They continued to see him as a moderate and continued to put up one unviable candidate after another to challenge his frontrunner status. The primary went on and on with one nutjob after another becoming the favorite to unseat Romney as the favorite. It was a joke but Republican leaders weren't laughing.
+
+So they have vowed to make changes this time around. This time they aren't going to forget how toxic many standard Republican views are to mainstream America. They aren't going to let clowns like Michele Bachmann or Herman Cain grab the spotlight and tarnish their nominee. They aren't going to allow debate questions that force candidates to openly take extreme positions to get ahead in the primary but hurt them in the general election. In short, they are going to remember who they are: the batshit crazy party. They will do their best to hide that from general election voters. ",0,[],[],['Barack Obama'],GOP wants more control over picking 2016 nominee ,,"Text: ""GOP wants more control over picking 2016 nominee""
+
+Based on the analysis, the text does not contain hate speech or target any protected class. 
+
+Output: []",["Politics"],Neutral,No,WRONG
+4373,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 7:37,AmericanPolitics,t3_25ccmp,"The tl;dr version of the article is what you would expect. Pure conservative porn. It's not even honest enough to make clear that the hope of the Republicans in exploiting the deaths of these people is not to attack this president but to tarnish Secretary Clinton so she doesn't become the next president. 
+
+Only read if you are radically conservative and the blonde bimbos on Fox News are no longer getting it done for you. ",4,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4374,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 7:46,AmericanPolitics,t3_25ccmp,"&gt; the blonde bimbos
+
+Yep, only women who are liberal aren't bimbos. How delightfully sexist of you to expose yourself in such a way.
+
+You are a partisan hack who doesn't like it when the other side calls attention to just how fucked up their side is.",-4,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4375,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 8:00,AmericanPolitics,t3_25ccmp,"Perhaps I should have made clear that there are a lot of empty headed people at Fox News and not just the attractive blonde females they are known for hiring. Maybe I should have just went with ""blondes"" there. I apologize to bimbos everywhere for associating you with Fox News. 
+
+I'm hardly a partisan Democrat. I'm all for criticism of them. I do plenty of it. They are almost as bad as the Republicans as far as I'm concerned. And criticism in general is a good thing. Honest attempts at criticism help find the flaws that are bound to exist in any complex human endeavor. But this isn't honest. ",2,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4376,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 8:12,AmericanPolitics,t3_25ccmp,"Show me where it isn't honest. I don't get that.
+
+I can show you a video of prominent liberals warning us about Iraq and Saddam, yet they voted for war and then said it was an illegal war. Is that honest, as you put it?",-1,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4377,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 8:43,AmericanPolitics,t3_25ccmp,"Actual liberals or just moderates like Hillary Clinton who were worried about future electoral prospects? 
+
+It's not honest because it pretends the Benghazi investigation is directed against President Obama. He can't run again and since he can't get his agenda passed by Congress anyways it won't have much of an effect on him. So the whole first paragraph is complete bullshit. He has no chance of being impeached because the Republicans learned the last time that doing so without a smoking gun is political suicide. 
+
+It's true that Gowdy has a reputation as a solid prosecutor but if he really is furious over the American deaths in Benghazi then accepting the job of exploiting those deaths for political purposes is an odd way of showing it. What the GOP is actually accusing the White House of isn't even honest. They are pretending outrage over how press briefings were slanted but are really hoping to find sound bites that make Hillary look weak on foreign policy.",0,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,["Race"],["Politics"],Positive,No,CORRECT
+4378,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 8:56,AmericanPolitics,t3_25ccmp,"Only liberals think Hillary Clinton is a moderate. Moving the goalposts doesn't change the fact that she is a liberal leftist.
+
+How is want to get to the bottom of what happened and bring out the truth ""exploiting those deaths for political purposes?""
+
+Don't claim that the left doesn't politicize things for political gain. War on women? Total bullshit. Homophobic bigots? Bullshit. Hates brown people? More bullshit. The left has made disinformation an art form and the morons out there slurp it up like manna from heaven.",0,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4379,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 16:03,AmericanPolitics,t3_25ccmp,"This article is assumes Obama is guilty without evidence, standard confirmation bias. Obama would only be afraid if any of these allegations are true, which is what Gowdy is attempting to find out. I'm concerned by the verbiage of this article and hope that Gowdy takes a objective view of any evidence found, rather than assuming conspiracy, which is statistically less likely.",0,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4380,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 16:14,AmericanPolitics,t3_25ccmp,"God, who actually buys into this tripe?
+
+Here's a clue Republican hacks.    If you showed 1000th of the skepticism about Iraq that you currently display about Benghazi, you'd have more than your current thimble-full of credibility on the issue of Presidential competence and lying.
+
+As it is, you let 1000 times more of our guys die in Iraq for WMD's that didn't exist and both Bush and Cheney LIED about.
+
+Come back when you're not the political equivalent of OJ Simpson demanding justice.",1,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,[],["Politics"],Positive,No,CORRECT
+4381,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/12/2014 21:53,AmericanPolitics,t3_25ccmp,"&gt; Only liberals think Hillary Clinton is a moderate. Moving the goalposts doesn't change the fact that she is a liberal leftist.
+
+Claiming that someone is a member of a group when people of that group are saying she is not isn't a great argument. Hillary was a prominent member of the DLC (only her husband was more prominent) who favored a ""Third Way"" for Democrats between liberals and conservatives. No matter how things look from your perch way over there on the right it seems like that's pretty much the definition of a moderate by Washington standards. 
+
+&gt; How is want to get to the bottom of what happened and bring out the truth ""exploiting those deaths for political purposes?""
+
+Seeing how they already had investigations we already know in general terms what happened. Working in dangerous countries is dangerous (imagine that) and we should put more effort into protecting our diplomats but the current Administration didn't weaken security nor fail to respond properly to the attack. That there was some spin on how information was released is what we should expect given the current political climate and not some unusual or scandalous practice that needs investigating. 
+
+&gt; Don't claim that the left doesn't politicize things for political gain. War on women? Total bullshit. Homophobic bigots? Bullshit. Hates brown people? More bullshit. The left has made disinformation an art form and the morons out there slurp it up like manna from heaven.
+
+I'm not making that claim. Politicization is the name of the game these days unfortunately. But claiming there is any kind of equivalence between Democrats and Republicans when it comes to disinformation is ridiculous. Republicans are far more skilled at it. Republicans are more skilled than Democrats at just about everything. 
+
+""War on Women"" is hyperbole. Indifference to women isn't hostility. ""Homophobic bigots"" and ""Hates brown people""? Sure not all Republicans are bigots but lay down with dogs and get up with fleas. ",0,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,["Race"],["Politics"],Positive,No,CORRECT
+4382,5/12/2014 7:24,Trey Gowdy Is Barack Obama?s Worst Nightmare,,5/13/2014 11:44,AmericanPolitics,t3_25ccmp,"[Umm, yeah. About that.](https://www.youtube.com/watch?v=N5p-qIq32m8)",0,['Barack Obama'],[],[],Trey Gowdy Is Barack Obama?s Worst Nightmare ,,["Race"],["Politics"],Positive,No,CORRECT
+4406,5/15/2014 13:59,Oh Wow? Judge Andrew Napolitano Confirms New Select Committee Can Subpoena Barack Obama to Testify on Benghazi,,5/15/2014 14:08,AmericanPolitics,t3_25miwr,We'll see if he ignores this one as he has others. He's ignored court orders (gulf drilling moratorium) and other subpoenas.,2,['Barack Obama'],[],[],Oh Wow? Judge Andrew Napolitano Confirms New Select Committee Can Subpoena Barack Obama to Testify on Benghazi ,,[],["Politics"],Positive,No,CORRECT
+4407,5/15/2014 13:59,Oh Wow? Judge Andrew Napolitano Confirms New Select Committee Can Subpoena Barack Obama to Testify on Benghazi,,5/15/2014 20:20,AmericanPolitics,t3_25miwr,"Andrew Napolitano is a political huckster, who cares what he says?",0,['Barack Obama'],[],[],Oh Wow? Judge Andrew Napolitano Confirms New Select Committee Can Subpoena Barack Obama to Testify on Benghazi ,,[],["Politics"],Neutral,No,CORRECT
+4436,5/16/2014 15:14,Republicans Paint Reid as Bogeyman in 2014 Senate Races,,5/17/2014 12:32,AmericanPolitics,t3_25ptv9,"How about LBJ? He greatly expanded our role in Nam. [He also brought us the Great Society that has held people down for decades.](http://www.canadafreepress.com/index.php/article/40889) Be sure to read the part about it would have blacks voting democratic for 200 years.
+
+Or Jimmy Carter, the wonderful man who never met a regulation he didn't want to deregulate. Ask the Teamsters how deregulating the trucking industry worked out for them.
+
+Then we have the slime from Arkansas Bill Clinton. So many people died mysteriously while he was in office the term Arkancide was coined. 
+
+Then you have Harry Reid. Bought and paid for by the gambling industry, and now it seems he, through his son, is working for the Chinese. A man who can't for the life of him put anything up for a vote in the Senate that came from the House. Yet he, and the rest of the democrats, have the balls to call republicans obstructionists.
+
+edit: Do you have anything worthwhile to say or are you just going to downvote anything I say?",0,[],[],['Bill Clinton'],Republicans Paint Reid as Bogeyman in 2014 Senate Races ,,[],["Politics"],Neutral,No,CORRECT
+4682,6/5/2014 17:27,Libertarian Republicans vs. ?real? Republicans,,6/5/2014 18:15,AmericanPolitics,t3_27ec0m,"Libertarians are what NeoCons call themselves after their entire political viewpoint, embodied in George W. Bush's Presidency, crumbled into a pile of crap.
+
+Seriously.  They're guys who don't want to be tarred with the epic failure of the conservative agenda when applied to the real world, so they're trying to adopt another, stupider one.
+
+And Libertarians for the most part are idiots who don't understand why what they want to change, exists in the first place.   Ask them what the results would be of getting rid of the Fed beyond what they so rosily assume.   Ask them why the federal reserve is there at all and why it was created.   ",-1,[],[],['George W. Bush'],Libertarian Republicans vs. ?real? Republicans ,,[],["Politics"],Neutral,No,CORRECT
+4705,6/10/2014 2:47,'I've Had Enough': When Democrats Quit on Obama,,6/11/2014 6:08,AmericanPolitics,t3_27r5zu,"I think he was, yeah. I could be wrong about him, of course, but he was the one who seemed most focused on helping the middle class and we have him to thank for the health care reform. All three major candidates had vague gestures towards reform but Edwards was the one who put an actual plan on the table which forced Hillary Clinton and Barack Obama to do the same. Those plans received a lot of scrutiny in the extended primary and then became the focal point of the general election and then President Obama's first term. If Edwards hadn't stepped up the Democratic platform likely would have only included general references to the need for better healthcare and who knows what would have come from the brief window when the Democrats held Congress and the White House. ",1,[],[],['Barack Obama'],'I've Had Enough': When Democrats Quit on Obama ,,[],["Politics"],Negative,No,CORRECT
+4706,6/10/2014 2:47,'I've Had Enough': When Democrats Quit on Obama,,7/9/2014 20:25,AmericanPolitics,t3_27r5zu,"about time some of them started waking up!
+
+
+
+we have lost our right to innocent until proven guilty &amp; placed under indefinite detention laws, for the 1st time in our history...locked up with NO lawyer, trial or charges...with the signing of the NDAA on Dec.31st, 2011
+
+*or how our Pres MURDERED 4 American citizens, without trial...including a 16 yr old kid, then gave himself the right to kill us ALL, on our own soil, without trial...
+
+*or how he got caught spying on the entire country &amp; made his crimes legal a month later....they can now read our e-mails &amp; record our calls, without warrant...
+
+*or how about those 30,000 drones over our skies, starting next year....he signed for in 2012?
+
+*or how about how all of Egypt wants Obama &amp; Hillary put on trial for war crimes, for arming muslim brotherhood president Morsi...who was killing the protesters &amp; Christians &amp; gay people?
+
+*or how about how he removed our ban to arm terrorist?
+
+*or how he removed our propaganda ban we have had since 1948?
+
+*or how about when he signed the Monsanto protection act, making it where the creators of GMO's can't be sued...even though they are banned or labeled in 64 countries?
+
+President Barack Obama has the authority to use an unmanned drone strike to kill US citizens on American soil, his attorney general has said. http://www.telegraph.co.uk/news/worldnews/barackobama/9913615/Barack-Obama-has-authority-to-use-drone-strikes-to-kill-Americans-on-US-soil.html
+
+--In December 2011, President Obama signed the 2012 NDAA, codifying indefinite military detention without charge or trial into law for the first time in American history. The NDAA's dangerous detention provisions would authorize the president ? and all future presidents ? to order the military to pick up and indefinitely imprison people captured anywhere in the world, far from any battlefield. The ACLU will fight worldwide detention authority wherever we can, be it in court, in Congress, or internationally.https://www.aclu.org/blog/tag/ndaa
+
+--President Obama offered a robust defense of newly revealed surveillance programs on Friday as more classified secrets spilled into public, complicating a summit meeting with China?s new president focused partly on human rights and cybersecurity http://www.nytimes.com/2013/06/08/us/national-security-agency-surveillance.html?pagewanted=all&amp;_r=0
+
+--Obama backs new spy law that tech companies rejecthttp://www.computerworld.com/s/article/9248509/Obama_backs_new_spy_law_that_tech_companies_reject --House intel chair warns of penalty if CIA searched Senate computershttp://www.cnn.com/2014/03/12/politics/congress-cia/
+
+--Pres. Obama signed the FAA Modernization and Reform Act of 2012, a bill that the Federal Aviation Administration?s AnneMarie Ternay describes as containing requirements for integrating unmanned aircraft systems and vehicles such as drones into the national airspace starting immediately. http://rt.com/usa/faa-drone-aircraft-us-335/
+
+--16yr old American citizen on Obama kill list-murdered without trial-The missile killed him, his teenage cousin and at least five other civilians on Oct. 14, 2011, while the boys were eating dinner at an open-air restaurant in southern Yemen http://www.nytimes.com/2013/07/18/opinion/the-drone-that-killed-my-grandson.html
+
+--With the president?s signature, agriculture giants that deal with genetically modified organisms (GMOs) and genetically engineered (GE) seeds are given the go-ahead to continue to plant and sell man-made crops, even as questions remain largely unanswered about the health risks these types of products pose to consumers http://rt.com/usa/monsanto-bill-blunt-agriculture-006/
+
+64 countries around the world require labeling of genetically engineered foods. Unlike most other developed countries ? such as 15 nations in the European Union, Japan, Australia, Brazil, Russia and even China ? the U.S. has no laws requiring labeling of genetically engineered foods. -- http://justlabelit.org/right-to-know/labeling-around-the-world/
+
+all of Egypt wants him trial for war crimes, for arming muslim brotherhood president Morsi, who was killing protesters, Christians &amp; gay people...they just sentenced 537 people to death for less than O did...too funny...der...he hasn't done anything wrong....BAHAHAHAHA ... http://blogs.cbn.com/ibrahim/archive/2013/11/07/obama-accused-of-crimes-against-humanity.aspx
+",1,[],[],['Barack Obama'],'I've Had Enough': When Democrats Quit on Obama ,,[],["Politics"],Negative,No,CORRECT
+4747,6/16/2014 3:35,How America became uncompetitive and unequal,,6/17/2014 16:46,AmericanPolitics,t3_2893i2,"I'm not sure what your point is with these links. Free trade is bad for American jobs, yes, and though I didn't watch the Youtube video if the point was that both parties engage in it then unfortunately that's true too. But that doesn't make it a liberal policy. On the contrary, when it comes to economics both parties are conservative. Both Presidents Bill Clinton and Barack Obama are moderate conservatives. 
+
+The writer of the Half Sigma blog should read the Washington Post article. Just because new anti-labor laws haven't been passed doesn't mean that anti-labor policies haven't been put into place. They have and conservatives are to blame. The writer also doesn't understand the history. Colonies and states were not giving out land and the government didn't start doing so until the Homestead Act of 1862. By that point inequality had been increasing all along and that's just before the beginning of the Gilded Age. ",-1,[],[],"['Barack Obama', 'Bill Clinton']",How America became uncompetitive and unequal ,,[],["Economy"],Negative,No,WRONG
+4945,7/2/2014 15:11,"Barack Obama Worse President Than Bush, Nixon, Poll Says",,7/2/2014 15:59,AmericanPolitics,t3_29nlh1,"That Reagan was voted the best shows just how fucking stupid people who took this poll are.
+
+The four tenets of Reaganomics were tax cuts, deregulation, cutting government spending and keeping a tight reign on the money supply to combat inflation.
+
+Deregulation gave us the crash of 07, tax cuts got us 30 years of middle class wage stagnation and the already rich taking more of the gains from everyone else and cutting government spending has resulting in our current crumbling infrastructure, anemic economy and high unemployment without impacting the deficit.
+
+No wonder the country is so fucked up.   People think the worse President since WW2 is the best one, despite his policies making their lives and this country, demonstrably worse.",2,['Barack Obama'],[],[],"Barack Obama Worse President Than Bush, Nixon, Poll Says ",,[],["Politics"],Negative,No,CORRECT
+4946,7/2/2014 15:11,"Barack Obama Worse President Than Bush, Nixon, Poll Says",,7/2/2014 20:18,AmericanPolitics,t3_29nlh1,"Not to mention changing government standards to bust unions and allow the formation of the near monopolistic megacorporations that extract so much wealth from American citizens. President Reagan was terrible. But was he really worse than President Bush Jr? And unlike President Bush, President Obama's numbers are likely to improve after he leaves office. He'll still be just as black but the disinformation campaigns about his policies will be less effective with time and he will no longer be being blamed for the economy. That's the big issue. The job market just isn't getting better.
+
+My ranking of postwar presidents: 
+
+Johnson
+
+Truman
+
+Eisenhower 
+
+Obama
+
+Carter
+
+Clinton
+
+Kennedy
+
+Ford
+
+Bush Sr
+
+Nixon
+
+Reagan
+
+Bush Jr",1,['Barack Obama'],[],[],"Barack Obama Worse President Than Bush, Nixon, Poll Says ",,"[]
+The text does not target any protected classes.",["Politics"],Negative,No,WRONG
+4991,7/7/2014 13:46,Texas Democrat says Obama 'one step behind' on border crisis,,7/7/2014 16:58,AmericanPolitics,t3_2a1q8n,"Obama?s DHS has so far deported more people than during the first six and a half years of George W. Bush?s administration. Just shy of 1.5 million unauthorized immigrants have been forcefully deported from the United States under Napolitano?s leadership.  
+
+http://www.forbes.com/sites/alexnowrasteh/2012/07/30/president-obama-deporter-in-chief/
+
+So he deported more in 4 years than Bush did in 6 1/2 ?   Where's the apparently outrage at Bush's apparent slacking/incompetence?
+
+Oh no where.",2,[],[],['George W. Bush'],Texas Democrat says Obama 'one step behind' on border crisis ,,["National Origin"],["Politics"],Negative,No,CORRECT
+5051,7/13/2014 21:41,"How Hillary Clinton, Barack Obama, and Congressional Republicans, Created Child-Refugee Flood",,7/14/2014 17:16,AmericanPolitics,t3_2am2ph,And....   don't forget that one of the last things George W. Bush did was [sign legislation](http://www.nytimes.com/2014/07/08/us/immigrant-surge-rooted-in-law-to-curb-child-trafficking.html?_r=0) that paved the way for this.,2,['Barack Obama'],[],['George W. Bush'],"How Hillary Clinton, Barack Obama, and Congressional Republicans, Created Child-Refugee Flood ",,["National Origin"],["Politics"],Negative,No,CORRECT
+5052,7/13/2014 21:41,"How Hillary Clinton, Barack Obama, and Congressional Republicans, Created Child-Refugee Flood",,7/14/2014 18:28,AmericanPolitics,t3_2am2ph,[deleted],2,['Barack Obama'],[],[],"How Hillary Clinton, Barack Obama, and Congressional Republicans, Created Child-Refugee Flood ",,["National Origin"],["Politics"],Negative,No,CORRECT
+5224,8/1/2014 3:16,Why are conservatives afraid of Neil deGrasse Tyson?,,8/1/2014 11:58,AmericanPolitics,t3_2cax92,"&gt;but it?s worth remembering that Tyson served the George W. Bush administration as a member of the Commission on Moon, Mars and Beyond in 2004. Conservatives have no problem harnessing Tyson?s intellect.
+
+That pretty much says it all. The author of this article saw one conservative write a negative article about Tyson and is trying to spin it like all conservatives are ""afraid"" of him for doing science documentaries",5,[],[],['George W. Bush'],Why are conservatives afraid of Neil deGrasse Tyson? ,,["Gender"],["Politics"],Negative,No,CORRECT
+5301,8/12/2014 13:07,Flashback: What Obama Said About Taking Vacations in 2008 Video is a Real Howler,,8/12/2014 14:41,AmericanPolitics,t3_2dby36,"As of Aug. 13, 2013, Obama is on his 15th vacation trip, covering all or part of 96 days total. He's spending this vacation in Martha's Vineyard with his family.
+
+At the same point in his presidency ? Aug. 13, 2005 ? George W. Bush had made 51 visits to his ranch in tiny Crawford, Texas, totaling all or part of 335 days. (Note: Bush sometimes used the property to host world leaders.)
+
+http://news.yahoo.com/-obama%E2%80%99s-vacations-and-golfing-by-the-numbers--165241111.html
+
+
+Let's find another source and compare Obama's numbers from two years ago to Ronald Reagan's, shall we?
+
+So far, President Obama has taken 61 vacation days after 31 months in office. At this point in their presidencies, George W. Bush had spent 180 days at his ranch where his staff often joined him for meetings. And Ronald Reagan had taken 112 vacation days at his ranch.
+
+http://www.cbsnews.com/news/presidential-vacations-how-does-obama-compare/
+
+Yes, truly, Obama is history's greatest monster because he took FAR fewer vacation days than Bush or Reagan.      /s
+
+
+What a pathetic hack piece of crap ""journalism"" this is.   Ought not to be allowed.  ",5,[],[],['George W. Bush'],Flashback: What Obama Said About Taking Vacations in 2008 Video is a Real Howler ,,[],["Politics"],Negative,No,CORRECT
+5504,9/3/2014 12:23,Koch Brothers are a Danger to American Democracy,,9/3/2014 15:09,AmericanPolitics,t3_2fcmw1,"Wow, not that I wasn't expecting it from the title, but what an absolute dogshit link.
+
+Noting that there is not one single link of supporting fact, check out the nonsense hyperbole:
+
+&gt;are set out to dismantle every piece of progressive legislation that our nation has enacted over the last 80 years.
+
+Really, every single one?  And how does one define ""progressive legislation"" anyway?
+
+&gt;the election of Barack Obama presented the Koch Brothers the perfect opportunity to capitalize on a divided electorate?s racist sentiment against the nation?s first black President.
+
+The electorate is divided because they are racist?  
+
+&gt;They have influenced education policies, businesses, and even the Supreme Court of the United States.
+
+How, pray tell did the Koch's influence the Supreme Court?  What did the Koch's give the crooked justices since they already have lifetime appointments?  And also, what did they give the ACLU to support CU?
+
+
+And that's just in the first two paragraphs!",2,[],[],['Barack Obama'],Koch Brothers are a Danger to American Democracy ,,"The text ""Koch Brothers are a Danger to American Democracy"" does not contain hate speech targeting any of the protected classes mentioned. Therefore, the output should be an empty array: []",["Politics"],Negative,No,WRONG
+5591,9/8/2014 16:04,George W. Bush is no prophet?and he?s the reason we have ISIS today,,9/8/2014 23:29,AmericanPolitics,t3_2ftfla,Isn't it ISIL?,1,['George W. Bush'],[],[],George W. Bush is no prophet?and he?s the reason we have ISIS today ,,["Age"],["Politics"],Negative,No,CORRECT
+5637,9/11/2014 14:41,A sixth-grade teacher in Washington will apologize to students for asking them to draw comparisons between former President George W. Bush and Adolph Hitler,,9/11/2014 16:34,AmericanPolitics,t3_2g3ut4,"Both were heavy into use of propaganda and worship of the state. Plus the whole Homeland/Fatherland thing.
+
+I'd let it stand.",-2,['George W. Bush'],[],[],A sixth-grade teacher in Washington will apologize to students for asking them to draw comparisons between former President George W. Bush and Adolph Hitler ,,[],["Education"],Negative,No,CORRECT
